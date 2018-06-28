@@ -1,0 +1,16 @@
+*{
+	font-family: '苹方';
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;/* 消除A标签的下划线  */
+	 /* 自动解析border，仅限于border */
+	list-style: none;
+	font-size: 0.36rem;
+}
+body{
+    width: 100%;
+    height: auto;
+    position: relative;
+    background-color: #f6f7fb;
+}
